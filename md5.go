@@ -1,4 +1,4 @@
-// == Credits PretendoNetwork == //
+// == Credits Pretendo Network == //
 
 package nex
 
